@@ -1,0 +1,56 @@
+<scheme name="Darcula Rohit" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-04-02T16:32:28</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-04-02T19:42:15</property>
+    <property name="originalScheme">Darcula Rohit</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <attributes>
+    <option name="BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
+    <option name="BLADE_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
+    <option name="BLADE_TEXT_BLOCK_BOUNDARY">
+      <value>
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="629755" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
