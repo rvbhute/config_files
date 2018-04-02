@@ -1,6 +1,6 @@
 ## dotfiles
 
-Collection of system and application configuration files, including a few dotfiles
+Collection of system and application configuration files, including a few dotfiles.
 
 Resources to follow up:
 
