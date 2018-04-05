@@ -1,0 +1,5 @@
+Key Promoter X
+de.espend.idea.laravel
+org.editorconfig.editorconfigjetbrains
+org.jetbrains.plugins.stylus
+ru.adelf.idea.dotenv
