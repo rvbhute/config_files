@@ -1,6 +1,6 @@
 ## PhpStorm 2018.1
 
-### Contents of the `settings.jar`:
+### Contents of `settings.jar`:
 
 Settings exported PhpStorm.
 
@@ -15,4 +15,4 @@ Settings exported PhpStorm.
 
 ### Other Files
 
-All files except `disabled_plugins.txt` are also contained in the `jar` file. `disabled_plugins.txt` lists plugins from the default bundle that are disabled.
+All files except `disabled_plugins.txt` are contained in the `jar` file. `disabled_plugins.txt` lists plugins from the default bundle that are disabled.
